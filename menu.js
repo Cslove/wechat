@@ -12,7 +12,7 @@ module.exports={
 			'type':'view',
 			'url':'http://166a6r9961.51mypc.cn:36974/movie'
 		},{
-			'name':'扫码推送事件事件事件',
+			'name':'扫码推送事件',
 			'type':'scancode_push',
 			'key':'scancode'
 		},{
